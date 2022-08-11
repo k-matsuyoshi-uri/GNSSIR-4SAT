@@ -27,6 +27,8 @@ Contents
 - station_Metadata.m\
     Creates a .mat file using user-input parameters that summarizes distances between station benchmarks and associated files.\
     Outputs: Station_Metadata.mat file
+- compute_evaluations.m\
+    Helper function that computes evaluation metrics for different satellite combinations. 
 - get_RMSD.m\
     Helper function for GNSSIR_vs_TG_SL scripts to evaluate the root-mean-square deviation. 
 - get_RMSE.m\
