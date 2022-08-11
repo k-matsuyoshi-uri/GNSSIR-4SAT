@@ -78,4 +78,4 @@ Meng (Matt) Wei (URI Graduate School of Oceanography)\
 Eric Breuer and Robert Heitsenrether (NOAA Tides and Currents)\
 For the opportunity and funding for this project, I would like to thank \
 the University of Rhode Island, Graduate School of Oceanography\
-and the National Science Foundation. \
+and the National Science Foundation.
