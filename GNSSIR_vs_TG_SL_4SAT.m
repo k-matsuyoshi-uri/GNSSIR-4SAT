@@ -335,7 +335,7 @@ hold on;
 eval2r = plot(1:length(evaluations2(:,1)), evaluations2(:,2), 'x-', 'Linewidth', 2, 'Color', '#d3007c');
 eval1r.Color(4) = 0.4;
 title('Root-Mean-Square Deviation');
-ylabel('RMSD');
+ylabel('RMSD (m)');
 grid on;
 xlim([0,length(all_labels)+1]);
 xticks(1:length(all_labels));

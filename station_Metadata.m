@@ -10,7 +10,7 @@ clear;
 GNSS_station = 'N001';
 
 % TG MSL csv data - water height from tidal datum epoch MSL
-TG_MSL_data = 'ALL_TG_MSL.csv';
+TG_MSL_data = 'N001_TG_MSL.csv';
 TG_station = '8452660'; % NOAA Tide Gauge Water Level Station
 TG_epoch = '1983-2001'; % Tidal Datum Analysis Period for MSL from station datum
 
